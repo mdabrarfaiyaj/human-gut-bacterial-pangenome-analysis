@@ -20,3 +20,4 @@ __pycache__/
 .Rhistory
 .DS_Store
 .vscode/
+results/pipeline_info/
