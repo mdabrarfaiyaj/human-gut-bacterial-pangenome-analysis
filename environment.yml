@@ -1,0 +1,19 @@
+name: gut-pangenome
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - nextflow=24.04
+  - seqkit=2.8
+  - prokka=1.14.6
+  - panaroo=1.5
+  - ncbi-amrfinderplus=3.12
+  - iqtree=2.3
+  - pandas
+  - matplotlib
+  - biopython=1.81
+  - pip
+  - pip:
+      - ete3

@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)
+Bvulgatus_003.fna.gz	FASTA	DNA	70	4498174	601	64259.6	385775	14035.0	44431.0	79884.0	0	122019	11	0.00	0.00	0.00	41.98

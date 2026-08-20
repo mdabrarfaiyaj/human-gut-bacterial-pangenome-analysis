@@ -1,0 +1,22 @@
+# Large regenerable data
+data/genomes/*.fna.gz
+data/genomes/*.fasta.gz
+work/
+.nextflow/
+.nextflow.log*
+
+# Bulky pipeline outputs (regenerable)
+results/annotation/
+results/panaroo/core_gene_alignment.aln
+results/phylogeny/core_gene_alignment.aln.log
+results/phylogeny/core_gene_alignment.aln.ckp.gz
+
+# Python
+__pycache__/
+*.pyc
+*.bak
+
+# Editor / OS
+.Rhistory
+.DS_Store
+.vscode/

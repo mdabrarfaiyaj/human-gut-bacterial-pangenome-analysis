@@ -1,0 +1,17 @@
+sample_id	species	accession	source	original_name	fasta_file_name	ftp_url	contigs	N50	total_size_bp
+Bvulgatus_001	Bacteroides vulgatus	CNS0020818	gut	AM28-1	AM28-1_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020818/CNA0001933/AM28-1_scaffold.fasta.gz	60	145209	4817791
+Bvulgatus_002	Bacteroides vulgatus	CNS0020830	gut	AF34-15	AF34-15_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020830/CNA0001388/AF34-15_scaffold.fasta.gz	61	201008	4679233
+Bvulgatus_003	Bacteroides vulgatus	CNS0020815	gut	AM17-30	AM17-30_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020815/CNA0001180/AM17-30_scaffold.fasta.gz	70	122019	4498174
+Bvulgatus_004	Bacteroides vulgatus	CNS0019926	gut	AM13-21	AM13-21_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0019926/CNA0000984/AM13-21_scaffold.fasta.gz	71	121643	5243870
+Bvulgatus_005	Bacteroides vulgatus	CNS0019900	gut	AF39-8AT	AF39-8AT_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0019900/CNA0000896/AF39-8AT_scaffold.fasta.gz	78	139984	5001746
+Bvulgatus_006	Bacteroides vulgatus	CNS0021149	gut	TF05-18	TF05-18_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0021149/CNA0001745/TF05-18_scaffold.fasta.gz	80	157195	5062435
+Bvulgatus_007	Bacteroides vulgatus	CNS0020780	gut	AF26-3BH	AF26-3BH_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020780/CNA0000983/AF26-3BH_scaffold.fasta.gz	81	121418	4716014
+Bvulgatus_008	Bacteroides vulgatus	CNS0020604	gut	AF18-14	AF18-14_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020604/CNA0001150/AF18-14_scaffold.fasta.gz	84	134400	5126472
+Bvulgatus_009	Bacteroides vulgatus	CNS0021410	gut	OF05-20BH	OF05-20BH_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0021410/CNA0001665/OF05-20BH_scaffold.fasta.gz	84	127154	4966393
+Bvulgatus_010	Bacteroides vulgatus	CNS0020697	gut	AM13-10	AM13-10_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020697/CNA0001009/AM13-10_scaffold.fasta.gz	84	102565	4664749
+Bvulgatus_011	Bacteroides vulgatus	CNS0021087	gut	OF05-14BH	OF05-14BH_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0021087/CNA0001723/OF05-14BH_scaffold.fasta.gz	85	127166	4965918
+Bvulgatus_012	Bacteroides vulgatus	CNS0021385	gut	AM44-21	AM44-21_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0021385/CNA0001823/AM44-21_scaffold.fasta.gz	86	138748	5111905
+Bvulgatus_013	Bacteroides vulgatus	CNS0021343	gut	TF10-3	TF10-3_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0021343/CNA0001811/TF10-3_scaffold.fasta.gz	87	137571	4966975
+Bvulgatus_014	Bacteroides vulgatus	CNS0020286	gut	AF39-1	AF39-1_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020286/CNA0001102/AF39-1_scaffold.fasta.gz	88	144864	5031441
+Bvulgatus_015	Bacteroides vulgatus	CNS0020711	gut	AM16-6	AM16-6_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020711/CNA0001199/AM16-6_scaffold.fasta.gz	91	125429	5075555
+Bvulgatus_016	Bacteroides vulgatus	CNS0020573	gut	AF21-45	AF21-45_scaffold.fasta.gz	ftp://ftp.cngb.org/pub/CNSA/data1/CNP0000126/CNS0020573/CNA0001225/AF21-45_scaffold.fasta.gz	96	123135	4940631

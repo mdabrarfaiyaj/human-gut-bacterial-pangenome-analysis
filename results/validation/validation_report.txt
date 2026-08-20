@@ -1,0 +1,10 @@
+Validation report - Thu Aug 20 13:23:59 +06 2026
+==============================
+
+Genome files present : 16
+Samples in metadata  : 16
+
+Species check (must all be identical - one species per pangenome run):
+Bacteroides vulgatus
+
+PASS: single species, genome/metadata counts consistent.

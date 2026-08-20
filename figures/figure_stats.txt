@@ -1,0 +1,5 @@
+core_genes=2572
+accessory_genes=4130
+unique_genes=1995
+n_samples=16
+total_genes=8697
