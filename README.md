@@ -176,7 +176,7 @@ There were 11 antimicrobial resistance genes detected in this analysis but those
 
 ``` bash
 # clone the repo
-git clone https://github.com/<mdabrarfaiyaj>/human-gut-bacterial-pangenome-analysis.git
+git clone https://github.com/mdabrarfaiyaj/human-gut-bacterial-pangenome-analysis.git
 cd human-gut-bacterial-pangenome-analysis
 
 # create the conda environment
