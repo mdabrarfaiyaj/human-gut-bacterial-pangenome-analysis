@@ -4,6 +4,8 @@ A reproducible Nextflow pipeline for pangenome and antimicrobial-resistance prof
 
 ------------------------------------------------------------------------
 
+📝 **Blog post:** [Same Species, Different Genes: The Pangenome of a Gut Bacterium](https://mdabrarfaiyaj.github.io/posts/Same-Species-Different-Genes-The-Pangenome-of-a-Gut-Bacterium/)
+
 ## Background:
 
 The pangenome has two parts- one is core genome and another is accessory genome. The core genome generally presents in all strains of the bacteria and it is required for essential functions .However,the accessory genome presents in some strains and often carry survival traits such as antimicrobial resistance genes. Moreover, strains of the same bacterial species do not carry the same genes. So, it is very important to know about the identification of the core genome and accessory genome of all strains in the same bacterial species.
