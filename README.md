@@ -247,4 +247,4 @@ Zou, Y., Xue, W., Luo, G. et al. 1,520 reference genomes from cultivated human g
 
 ## Author:
 
-Md. Abrar Faiyaj \| M.Sc. in Biotechnology
+Md. Abrar Faiyaj \| M.S. in Biotechnology
